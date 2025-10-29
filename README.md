@@ -79,7 +79,7 @@ Guardar resultados en JSON:
 `sudo masscan 192.168.1.0/24 -p1-1024 -oJ resultados.json`
 ```
 
-**¡Empieza ahora! Consulta la [cheatsheet.md](./cheatsheet.md) para los comandos, la [flujo_trabajo.md](./flujo_trabajo.md) para el flujo de trabajo y la [guia_masscan.md](./guia_masscan.md)**
+**¡Empieza ahora! Consulta la [cheatsheet.md](./assets/cheatsheet.md) para los comandos, el [flujo_trabajo.md](./assets/flujo_trabajo.md) para el flujo de trabajo y la [guia_masscan.md](./assets/guia_masscan.md) para el uso avanzado**
 
 ## ⚡ Casos prácticos
 
