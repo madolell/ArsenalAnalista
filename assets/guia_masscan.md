@@ -2,7 +2,7 @@
 
 ¡Bienvenido/a al equipo! Masscan es nuestra herramienta principal para el **reconocimiento de activos a gran escala**. Úsala sabiamente.
 
-![Captura Masscan](img/masscan.png)
+![IA](./img/Gemini.png)
 
 ----------
 
