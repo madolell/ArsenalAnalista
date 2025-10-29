@@ -1,10 +1,12 @@
-# 🧑‍💻 Guía de _Onboarding_ Masscan: Reglas de Operación Rápida
+# 🧑‍💻 Guía de _Onboarding_ Masscan
 
 ¡Bienvenido/a al equipo! Masscan es nuestra herramienta principal para el **reconocimiento de activos a gran escala**. Úsala sabiamente.
 
+![Captura Masscan](img/masscan.png)
+
 ----------
 
-## 1. 🚦 ¿Cuándo USAR Masscan y por Qué?
+## 1. 🚦 ¿Cuándo USAR Masscan y por qué?
 
 Utiliza Masscan como la **primera capa de reconocimiento** en cualquier análisis, especialmente en proyectos grandes.
 
@@ -27,7 +29,7 @@ Masscan es una herramienta potente y ruidosa. Su mal uso puede causar problemas 
 
 ----------
 
-## 3. 🧩 Combinaciones que Potencian Masscan (El _Workflow_ Profesional)
+## 3. 🧩 Combinaciones que potencian Masscan (El _Workflow_ Profesional)
 
 Masscan brilla cuando se integra en un _pipeline_ automatizado. Aquí tienes nuestras combinaciones más efectivas:
 

@@ -1,9 +1,8 @@
 # 🛡️ Masscan Avanzado: El Escáner Asíncrono para Analistas Pro
 
-![Captura Masscan](img/Gemini.png)
 ![Captura Masscan](img/masscan.png)
 
-## 🚀 Propósito de este Recurso
+## 🚀 Propósito de este recurso
 
 Este repositorio no es solo una explicación teórica de **Masscan**, sino un **Recurso Técnico Operacional (RTO)** diseñado para analistas de vulnerabilidades y *red teamers*. Su objetivo es triple:
 
@@ -19,12 +18,12 @@ Este repositorio no es solo una explicación teórica de **Masscan**, sino un **
 | :--- | :--- | :--- |
 | `README.md` | Introducción, propósito y estructura del proyecto. | Presentación. |
 | `cheatsheet.md` | Comandos clave, sintaxis y *flags* avanzados. | Referencia Rápida. |
-| `guia_masscan.md` | Flujo de trabajo profesional, integración con Nmap y solución de problemas. | Metodología y Caso Práctico. |
-| `config/masscan.conf` | *(Opcional)* Archivo de configuración avanzado para escaneos recurrentes. | Configuración. |
+| `flujo_trabajo.md` | Flujo de trabajo profesional, integración con Nmap y solución de problemas. | Representación. |
+| `guia_masscan.md` | Guia de uso avanzado para sacar el máximo potencial.| Metodología. |
 
 ---
 
-## 💡 ¿Por Qué Masscan y No Nmap?
+## 💡 ¿Por qué Masscan y no Nmap?
 
 Masscan opera de forma **asíncrona** y está optimizado para la velocidad pura, capaz de escanear todo el espacio IPv4 en minutos.
 
@@ -37,7 +36,7 @@ Masscan opera de forma **asíncrona** y está optimizado para la velocidad pura,
 
 ---
 
-## 🛠️ Requisitos del Entorno
+## 🛠️ Requisitos del entorno
 
 * **Sistema Operativo:** Linux (Recomendado para alto rendimiento).
 * **Permisos:** Se requiere `root` o `sudo` para ejecutar Masscan, ya que utiliza *sockets* raw.
@@ -80,7 +79,7 @@ Guardar resultados en JSON:
 `sudo masscan 192.168.1.0/24 -p1-1024 -oJ resultados.json`
 ```
 
-**¡Empieza ahora! Consulta la [cheatsheet.md](./cheatsheet.md) para los comandos y la [guia_masscan.md](./guia_masscan.md) para el flujo de trabajo.**
+**¡Empieza ahora! Consulta la [cheatsheet.md](./cheatsheet.md) para los comandos, la [flujo_trabajo.md](./flujo_trabajo.md) para el flujo de trabajo y la [guia_masscan.md](./guia_masscan.md)**
 
 ## ⚡ Casos prácticos
 
